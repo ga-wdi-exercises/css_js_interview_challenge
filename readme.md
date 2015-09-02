@@ -1,10 +1,12 @@
-# Huffington Post Coding Problem
+# Coding Problem
 
-This is an actual challenge given to an instructor when they interviewed for a development position at Huffington Post.
+This is an actual challenge given to an instructor when they interviewed for a development position. 
 
 ## CSS Problems
 
 Open index.html in a browser and follow the provided instructions.
+
+http://ga-dc.gihub.io/css_js_interview_challenge
 
 ## JavaScript Problems
 
