@@ -6,7 +6,7 @@ This is an actual challenge given to an instructor when they interviewed for a d
 
 Open index.html in a browser and follow the provided instructions.
 
-http://ga-dc.github.io/css_js_interview_challenge
+http://ga-wdi-exercises.github.io/css_js_interview_challenge
 
 ## JavaScript Problems
 
